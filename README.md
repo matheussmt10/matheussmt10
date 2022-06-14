@@ -6,9 +6,6 @@
 
 - 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -16,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-## <img src="https://img.icons8.com/emoji/20/undefined/man-with-beard-light-skin-tone.png"/> &nbsp;Social Links
+## <img src="https://img.icons8.com/emoji/48/undefined/man-with-beard-light-skin-tone.png"/> &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/matosmatheuss" target="_blank" >
