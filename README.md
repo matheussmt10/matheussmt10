@@ -19,11 +19,12 @@
 ## <img src="https://img.icons8.com/emoji/20/undefined/man-with-beard-light-skin-tone.png"/> &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/matosmatheuss" target="_blank">
-  <img align="center" src="https://img.icons8.com/glyph-neue/1/undefined/linkedin.png" alt="linkedin"/>LinkedIn
+<a href="https://linkedin.com/in/matosmatheuss" target="_blank" >
+  <img align="center" src="https://img.icons8.com/fluency/15/undefined/linkedin.png" alt="linkedin" style="background:yellow"/> LinkedIn
 </a>
+  <br/>
 <a href="https://instagram.com/matosmatheuss" target="_blank">
- <img align="center" src="https://img.icons8.com/color/15/undefined/instagram-new--v1.png" alt="instagram"/>Instagram
+ <img align="center" src="https://img.icons8.com/color/15/undefined/instagram-new--v1.png" alt="instagram"/> Instagram
 </a>
 </p>
 
