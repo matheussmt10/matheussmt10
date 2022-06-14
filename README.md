@@ -20,10 +20,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/matosmatheuss" target="_blank">
-  <img align="center" src="https://img.icons8.com/glyph-neue/1/undefined/linkedin.png" alt="linkedin"/>
+  <img align="center" src="https://img.icons8.com/glyph-neue/1/undefined/linkedin.png" alt="linkedin"/>LinkedIn
 </a>
 <a href="https://instagram.com/matosmatheuss" target="_blank">
- <img align="center" src="https://img.icons8.com/color/15/undefined/instagram-new--v1.png" alt="instagram"/>
+ <img align="center" src="https://img.icons8.com/color/15/undefined/instagram-new--v1.png" alt="instagram"/>Instagram
 </a>
 </p>
 
