@@ -25,4 +25,6 @@ Atualmente, estou dedicado à criação de soluções tecnológicas para otimiza
 
 - 🇺🇸 Inglês: Em construção (Nível Intermediário)
 
+## P.S.
+
 Minha transição de carreira reflete minha determinação e paixão por vencer. Sempre soube que não seria fácil entrar na área de desenvolvimento, mas hoje vejo que todo o esforço e as horas de estudo valeram a pena. Sinto-me realizado por trabalhar em algo que me motiva a me desenvolver a cada dia!
