@@ -1,42 +1,28 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Matos</h1>
+# Olá, sou o Matheus!
 
-- 🔭 I’m currently in transitioning from a career in Commercial to a career in Web Development.
+## Quem Sou Eu
 
-- 🌱 I’m currently learning JavaScript and NodeJS
+👨‍💻 Desenvolvedor Back End com 1 ano de experiência, anteriormente atuava como Executivo de Contas. Minha jornada começou em um mundo de vendas, mas minha paixão por tecnologia me fez dar uma guinada na carreira.
 
-- 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS.
+## O Que Faço
 
-## 🛠&nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+Atualmente, estou dedicado à criação de soluções tecnológicas para otimizar operações e processos. Meu dia a dia envolve:
 
-## <img src="https://img.icons8.com/emoji/48/undefined/man-with-beard-light-skin-tone.png" width="30px"/>&nbsp;Social Links
+- 🛠️ Criação de APIs para automação de processos.
+- 🐞 Resolução de problemas e manutenção de aplicações existentes.
+- 🚀 Desenvolvimento de aplicações escaláveis com TypeScript e Node.js.
+- 🌐 Utilização de diferentes bancos de dados, incluindo MySQL, SQL Server, PostgreSQL, Oracle DB e MongoDB.
+- ⚙️ Domínio de frameworks como Express, TypeORM, Sequelize, Mongoose e NestJS.
+- ☁️ Experiência com arquitetura serverless na Google Cloud Platform, construindo micro serviços com Cloud Functions.
+- 📜 Conhecimento em controle de versão com Git, GitHub e GitLab.
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/matosmatheuss" target="_blank" >
-  <img align="center" src="https://img.icons8.com/fluency/15/undefined/linkedin.png" alt="linkedin" style="background:yellow"/> LinkedIn
-</a>
-  <br/>
-<a href="https://instagram.com/matosmatheuss" target="_blank">
- <img align="center" src="https://img.icons8.com/color/15/undefined/instagram-new--v1.png" alt="instagram"/> Instagram
-</a>
-</p>
+## Entre em Contato
 
+- [LinkedIn](https://www.linkedin.com/in/matosmatheuss/)
+- [Email](matheusmatosmatheus@gmail.com)
 
-<!--
-**matheussmt10/matheussmt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Idiomas
 
-Here are some ideas to get you started:
+- 🇺🇸 Inglês: Em construção (Nível Intermediário)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+Minha transição de carreira reflete minha determinação e paixão por vencer. Sempre soube que não seria fácil entrar na área de desenvolvimento, mas hoje vejo que todo o esforço e as horas de estudo valeram a pena. Sinto-me realizado por trabalhar em algo que me motiva a me desenvolver a cada dia!
