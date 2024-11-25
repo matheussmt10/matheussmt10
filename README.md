@@ -23,7 +23,7 @@ Atualmente, estou dedicado à criação de soluções tecnológicas para otimiza
 
 ## Idiomas
 
-- 🇺🇸 Inglês: Em construção (Nível Intermediário)
+- 🇺🇸 Inglês: Em construção (Nível Avançado)
 
 ## P.S.
 
